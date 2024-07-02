@@ -17,7 +17,7 @@ This project is an Infant Incubator designed to maintain a stable environment fo
 
 1. [DHT11 Temperature Humidity Sensor Module](https://store.fut-electronics.com/collections/temperature-humidity/products/temperature-amp-humidity-sensor-module)
 2. [5V Buzzers](https://store.fut-electronics.com/products/buzzer-5v)
-3. [TCS3200 Color Sensor]([https://projecthub.arduino.cc/SurtrTech/color-detection-using-tcs3200230-a1e463](https://free-electronic.com/product/color-sensor-module-tcs3200-tcs230/))
+3. [TCS3200 Color Sensor]([https://free-electronic.com/product/color-sensor-module-tcs3200-tcs230/])
 4. [5V Relay](https://www.ram-e-shop.com/ar/shop/kit-sla-30a-1relay-1-output-relay-30a-module-works-on-5v-signal-sku-sla30-7643)
 5. 100 Watt Incandescent Light Bulb
 6. [HC-SR04 Ultrasonic Sensor Module](https://store.fut-electronics.com/products/ultrasonic-sensor-module)
