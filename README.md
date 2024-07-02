@@ -21,7 +21,7 @@ This project is an Infant Incubator designed to maintain a stable environment fo
 4. [5V Relay](https://www.ram-e-shop.com/ar/shop/kit-sla-30a-1relay-1-output-relay-30a-module-works-on-5v-signal-sku-sla30-7643)
 5. 100 Watt Incandescent Light Bulb
 6. [HC-SR04 Ultrasonic Sensor Module](https://store.fut-electronics.com/products/ultrasonic-sensor-module)
-7. [Arduino Uno](https://store.fut-electronics.com/products/arduino-uno)
+7. [Arduino Uno](https://store.fut-electronics.com/collections/arduino-boards/products/uno-r3-clone)
 8. [Breadboard](https://store.fut-electronics.com/collections/boards/products/breadboard-840-pin)
 9. [Male to Female Jumper Wires](https://store.fut-electronics.com/products/male-female-jumper-wire-400-mm)
 
