@@ -1,5 +1,5 @@
 # Infant Incubator Using Arduino
-![Infant Incubator](Image/Incubator.jpg)
+![Infant Incubator](Image/Incubator.jpeg)
 
 ## Overview
 
