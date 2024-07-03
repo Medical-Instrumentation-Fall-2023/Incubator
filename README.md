@@ -73,3 +73,10 @@ This project is an Infant Incubator designed to maintain a stable environment fo
 
 1. Connect all components as described in the wiring diagram.
 2. Upload the provided Arduino code to your Arduino board.
+## Troubleshooting
+
+- **Issue:** Door open detection not working properly.
+  - **Solution:** Adjust the distance threshold value according to your incubator dimentions.
+- **Issue:** Incorrect RGB readings.
+  - **Solution:** Calibrate your color sensor.
+
