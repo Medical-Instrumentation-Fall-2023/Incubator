@@ -76,7 +76,7 @@ This project is an Infant Incubator designed to maintain a stable environment fo
 ## Troubleshooting
 
 - **Issue:** Door open detection not working properly.
-  - **Solution:** Adjust the distance threshold value according to your incubator dimentions.
+  - **Solution:** Adjust the distance threshold value according to your incubator dimensions.
 - **Issue:** Incorrect RGB readings.
   - **Solution:** Calibrate your color sensor.
 
